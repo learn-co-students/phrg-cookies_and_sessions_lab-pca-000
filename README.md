@@ -23,5 +23,8 @@ We're going to use this to implement a shopping site. Here's how the site will w
 
 For this lab, there is no need to create tables and models and store the products in the database. We'll be using cookies via the Rails `session` method, along with our `cart` helper method to persist the products to the cart and to display them in the view.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-cookies_and_sessions_lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-cookies_and_sessions_lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/cookies_and_sessions_lab'>Cookies And Sessions Lab</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Cookies and Sessions Lab</p>
